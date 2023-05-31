@@ -10,3 +10,8 @@
 ```
 https://github.com/TitanNotSoGreat/recursos_ciencia_datos
 ```
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- [x] comer
+- [x] clic en commit
