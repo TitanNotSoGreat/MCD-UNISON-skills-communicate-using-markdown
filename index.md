@@ -15,3 +15,4 @@ https://github.com/TitanNotSoGreat/recursos_ciencia_datos
 - [ ] Introduce myself to the world
 - [x] comer
 - [x] clic en commit
+### y que viva python
